@@ -18,6 +18,7 @@
 - Machine learning–based crop monitoring and recommendation system  
 - Uses environmental and soil parameters for predictions  
 - Deployed as a web application
+- 🔗 Live Demo: https://cropsense.onrender.com
 
 ### 🧠 Brain Tumor Detection using Vision Transformer
 - Vision Transformer (ViT) model for MRI brain tumor classification  
