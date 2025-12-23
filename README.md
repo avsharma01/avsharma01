@@ -33,6 +33,7 @@
 - **Deployment:** Docker, Cloud Hosting
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Tools:** Git, GitHub, Google Cloud (Vertex AI)
+- **Badges Earned:** https://www.cloudskillsboost.google/public_profiles/d0c64857-7a90-4fd4-a4d2-9b096ad23ee5
 
 ---
 
