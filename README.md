@@ -23,6 +23,8 @@
 ### 🧠 Brain Tumor Detection using Vision Transformer
 - Vision Transformer (ViT) model for MRI brain tumor classification  
 - Focused on medical image analysis
+- Deployed as a web application
+- 🔗 Live Demo: https://huggingface.co/spaces/AnantVaibhav01/vit-brain-tumor-detection
 
 ---
 
