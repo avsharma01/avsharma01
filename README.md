@@ -41,4 +41,5 @@
 
 ## 📫 Connect
 - GitHub: https://github.com/avsharma01
+- Email: anantvaibhavofficial@gmail.com
 - LinkedIn: https://linkedin.com/in/anant-vaibhav-b444632a2
