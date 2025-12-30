@@ -1,7 +1,7 @@
 ## Hi, I'm Anant Vaibhav 👋
 
 🎓 B.Tech Computer Science (Artificial Intelligence)  
-🤖 Focused on Deep Learning, Generative AI Computer Vision & Frontend Development
+🤖 Focused on Deep Learning, Generative AI Computer Vision & Web Development
 🚀 Interested in building and deploying real-world AI systems
 
 ---
