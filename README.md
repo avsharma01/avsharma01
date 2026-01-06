@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science (Artificial Intelligence)  
 🤖 Focused on ML, Deep Learning, Generative AI, Computer Vision & Web Development
 🚀 Interested in building and deploying real-world AI systems
-- Portfolio 🔗https://anant-portfolio-rose.vercel.app/#home
+- Portfolio: 🔗https://anant-portfolio-rose.vercel.app/#home
 ---
 
 ## 🔥 Featured Projects
