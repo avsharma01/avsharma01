@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science (Artificial Intelligence)  
 🤖 Focused on ML, Deep Learning, Generative AI, Computer Vision & Web Development
 🚀 Interested in building and deploying real-world AI systems
-- Portfolio: 🔗https://anant-portfolio-rose.vercel.app/#home
+- Portfolio: 🔗https://anant-portfolio-rose.vercel.app
 ---
 
 ## 🔥 Featured Projects
@@ -43,3 +43,4 @@
 - GitHub: https://github.com/avsharma01
 - Email: anantvaibhavofficial@gmail.com
 - LinkedIn: https://linkedin.com/in/anant-vaibhav-b444632a2
+- Portfolio: https://anant-portfolio-rose.vercel.app
