@@ -8,6 +8,8 @@
 
 ## 🔥 Featured Projects
 
+### ⚖️ Kanoon Sarthi – Agentic RAG Legal Assistant
+-
 ### 🏏 CrickVision – Video Analysis for Cricket
 - CNN-RNN based cricket shot classification system  
 - Built using TensorFlow and Streamlit  
