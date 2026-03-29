@@ -38,7 +38,7 @@ Instead of relying solely on LLMs, Kanoon Sarthi:
 ---
 
 ## 🛠 Skills
-- **AI / ML:** Deep Learning, CNNs, RNNs, Vision Transformers, Generative AI
+- **AI / ML:** Deep Learning, CNNs, RNNs, Vision Transformers, Generative AI, Agentic RAG
 - **Frameworks:** TensorFlow
 - **Computer Vision:** OpenCV
 - **Deployment:** Docker, Cloud Hosting
