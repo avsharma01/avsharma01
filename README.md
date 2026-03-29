@@ -15,7 +15,7 @@ Instead of relying solely on LLMs, Kanoon Sarthi:
 - Retrieves relevant legal documents (Retriever)
 - Generates grounded responses (LLM)
 - Verifies factual correctness (Verification Agent)
--🔗 Repo: https://github.com/avsharma01/Kanoon-Sarthi
+- 🔗 Repo: https://github.com/avsharma01/Kanoon-Sarthi
 
 ### 🏏 CrickVision – Video Analysis for Cricket
 - CNN-RNN based cricket shot classification system  
