@@ -9,7 +9,13 @@
 ## 🔥 Featured Projects
 
 ### ⚖️ Kanoon Sarthi – Agentic RAG Legal Assistant
--
+This project leverages a multi-agent pipeline to provide accurate, context-aware legal answers from Indian Penal Code (IPC) documents.
+Instead of relying solely on LLMs, Kanoon Sarthi:
+- Breaks queries into sub-questions (Planning Agent)
+- Retrieves relevant legal documents (Retriever)
+- Generates grounded responses (LLM)
+- Verifies factual correctness (Verification Agent)
+
 ### 🏏 CrickVision – Video Analysis for Cricket
 - CNN-RNN based cricket shot classification system  
 - Built using TensorFlow and Streamlit  
